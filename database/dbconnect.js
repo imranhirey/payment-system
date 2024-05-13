@@ -1,5 +1,5 @@
 const mongoose= require('mongoose')
-let url ='mongodb+srv://xiireey:xiireey321@final-project.9apco.mongodb.net/?retryWrites=true&w=majority'
+let url =
 mongoose.connect(url,
   {
     useNewUrlParser: true,
